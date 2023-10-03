@@ -1,4 +1,4 @@
-# "C:\Users\edson\Downloads\Edson Mizuma.png" edsonmizuma
+# edsonmizuma
 
 **Atualmente sou aluno de Análise e Desenvolvimento de Sistemas da** [XP Educação](https://www.xpeducacao.com.br/).
 
