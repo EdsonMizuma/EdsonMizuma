@@ -1,4 +1,4 @@
-# edsonmizuma
+# Edson Mizuma
 
 **Atualmente sou aluno de Análise e Desenvolvimento de Sistemas da** [XP Educação](https://www.xpeducacao.com.br/).
 
