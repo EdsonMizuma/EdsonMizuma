@@ -8,7 +8,7 @@
 
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/edsonmizuma)
 
-## Atualmente mais focado em:
+## 🖥️ Atualmente mais focado em:
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) 
