@@ -1,7 +1,6 @@
 # edsonmizuma
 
-System Analysis and Development Student at XPE Education. I had my first contact with HTML, CSS and a little bit of JavaScript in 2020.
-Passionate about technology, some of my hobbies are games, watching series and movies.
+Atualmente sou aluno de Análise e Desenvolvimento de Sistemas da XPE Educação.
 
 ## Conecte-se comigo
 
