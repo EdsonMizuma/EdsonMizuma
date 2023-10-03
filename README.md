@@ -2,7 +2,7 @@
 
 **Atualmente sou aluno de Análise e Desenvolvimento de Sistemas da** [XP Educação](https://www.xpeducacao.com.br/).
 
-## Conecte-se comigo
+## Conecte-se comigo:
 
 <a href="https://www.linkedin.com/in/edsonmizuma/"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
